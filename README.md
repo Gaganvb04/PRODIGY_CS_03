@@ -50,9 +50,6 @@ Your password meets all the criteria.
 Check another password? (yes/no): no<br>
 Goodbye! Stay secure!
 
-**License**<br>
-This project is licensed under the MIT License.
-
 **Author**
 Gagan V B<br>
 www.linkedin.com/in/gaganvb04
