@@ -18,8 +18,7 @@ Moderate 	3–4 criteria satisfied<br>
 Weak 	Less than 3 criteria satisfied<br>
 
 **Requirements**<br>
-Python 3.x
-
+Python 3.x<br>
 No external libraries needed (re is built-in)
 
 **How to Run**<br>
